@@ -90,7 +90,7 @@ app.use(helmet({
    });
 
    //404 handler
-   app.use("*" , (req, res) => {
+   app.use("*", (req, res) => {
      res.status(404).json({
        error: "Endpoint Not Found",
        message: `The requested endpoint ${req.originalUrl} was not found`
