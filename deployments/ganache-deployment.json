@@ -1,0 +1,13 @@
+{
+  "network": "ganache",
+  "tokenAddress": "0xbb7d570E131980628dc7eEd8D2232d0BAed6d324",
+  "deployerAddress": "0xc45fC076fC8BD332a35E22743b5fec3808104c16",
+  "deployerBalance": "10000000.0",
+  "deploymentTime": "Wed Aug 13 2025",
+  "tokenInfo": {
+    "name": "FinBank Token",
+    "symbol": "FBT",
+    "decimals": "18",
+    "totalSupply": "10000000.0"
+  }
+}
